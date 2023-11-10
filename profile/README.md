@@ -20,3 +20,8 @@ Chaos League is a streaming-based game created by the YouTube DoodleChaos. The g
 - [Patreon](https://patreon.com/doodlechaos)
 - [Twitter/X](https://twitter.com/DoodleChaos)
 - [Merch](https://doodlechaos-official.creator-spring.com/)
+
+## Disclaimer
+
+Chaos League Wiki is not affiliated with or endorsed by DoodleChaos. All content, unless stated otherwise, is the intellectual property of their respective copyright holder.  
+We do not claim to have the copyright of any trademark or intellectual property of others including but not limited to images, video files, audio files.
